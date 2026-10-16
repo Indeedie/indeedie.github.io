@@ -1,0 +1,114 @@
+.coverpage
+{
+    width: 600;
+    height: 1000px;
+    background-color: white;
+    position: fixed;
+    top: 200px;
+    left: 1000px;
+}
+
+.titletext
+{
+    position: fixed;
+    top: 650px;
+    left: 1180px;
+    margin: 0 auto;
+}
+
+.eximage
+{
+  position:fixed;
+  bottom: 500px;
+  left: 750px;
+}
+
+.eximageh
+{
+  position:fixed;
+  bottom: 350px;
+  left: 750px;
+}
+
+.floatingtitlea
+{
+  position: fixed;
+  top: 220px;
+  left: 930px;
+  margin: 0 auto;
+}
+
+.floatingtitleb
+{
+  position: fixed;
+  top: 300px;
+  right: 1180px;
+  margin: 0 auto;
+}
+
+.arrowmarkerc
+{
+  position: fixed;
+  bottom: 300px;
+  left: 1225px;
+}
+
+.arrowmarkerw
+{
+  position:fixed;
+  left: 980px;
+  bottom: 100px;
+  height: 100px;
+  width: 100px;
+}
+
+.arrowmarkere
+{
+   position:fixed;
+  bottom: 100px;
+  right: 870px;
+  height: 100px;
+  width: 100px;
+}
+
+.pagetexta
+{
+  position:fixed;
+  left: 1330px;
+  top: 220px;
+  margin: 0 auto;
+}
+
+.pagetextb
+{
+  position:fixed;
+  right: 1340px;
+  top: 220px;
+}
+
+.pagea
+{
+  width: 600;
+  height: 1000px;
+  background-color: white;
+  position: fixed;
+  top: 200px;
+  left: 700px;
+}
+
+.pageb
+{
+  width: 600;
+  height: 1000px;
+  background-color: white;
+  position: fixed;
+  top: 200px;
+  right: 650px;
+}
+
+.spine
+{
+  width: 10px;
+  height: auto;
+  background-color: black;
+}

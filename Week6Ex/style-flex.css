@@ -1,0 +1,34 @@
+.body {
+    width: 100px;
+    height: 100px;
+}
+
+.first {
+    justify-content: flex-start;
+    background-color: skyblue;
+    gap: 30px;
+}
+
+.second {
+    align-items: center;
+    justify-content: center;
+    background-color: maroon;
+    gap: 30px;
+}
+
+.third {
+    justify-content: flex-end;
+    align-items: end;
+    background-color: gold;
+    gap: 30px;
+}
+
+.child {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    display: flex;
+}

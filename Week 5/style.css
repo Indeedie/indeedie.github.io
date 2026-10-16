@@ -1,0 +1,84 @@
+.pblock {
+    position: fixed;
+    left: 1025px;
+    top: 200px;
+    width: 200px;
+    height: 150px;
+    background-color: purple;
+    border: 5px salmon;
+}
+
+.rblock {
+    width: 200px;
+    height: 150px;
+    background-color: red;
+    border: 5px salmon;
+    position: fixed;
+    top: 10px;
+    left: 1180px;
+}
+
+.gblock {
+    width: 200px;
+    height: 150px;
+    background-color: green;
+    border: 5px salmon;
+    position: fixed;
+    top: 400px;
+    left: 1500px;
+}
+
+.bblock 
+{
+    position: fixed;
+    right: 1025px;
+    top: 200px;
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+    border: 5px salmon;
+}
+
+.oblock 
+{
+    width: 200px;
+    height: 150px;
+    background-color: orange;
+    border: 5px salmon;
+    position: fixed;
+    right: 1500px;
+    top: 400px;
+}
+
+.yblock 
+{
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+    border: 5px salmon;
+    position: fixed;
+    left: 1025px;
+    top: 600px;
+}
+
+.wblock 
+{
+    width: 200px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border: 800px black;
+    position: fixed;
+    top: 800px;
+    left: 1180px;
+}
+
+.zblock 
+{
+    width: 200px;
+    height: 150px;
+    background-color: antiquewhite;
+    border: 5px salmon;
+     position: fixed;
+    top: 600px;
+    right: 1025px;
+}
